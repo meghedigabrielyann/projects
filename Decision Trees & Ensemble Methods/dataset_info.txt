@@ -1,0 +1,6 @@
+Dataset Name: Adult Income Dataset (also known as Census Income)
+Source: UCI Machine Learning Repository
+Download Link: https://archive.ics.uci.edu/ml/datasets/adult
+Description: 
+The dataset consists of 48,842 instances with 14 attributes (age, workclass, education, marital-status, occupation, etc.).
+The goal is to predict whether an individual's income exceeds $50K/year based on census data.
